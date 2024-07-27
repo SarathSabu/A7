@@ -11,7 +11,7 @@ def fetch_flight_data(api_key, flight_number):
     return data
 
 # Default API Key 
-DEFAULT_API_KEY = '8280de18355e9912efb56468a626b0f7'
+DEFAULT_API_KEY = '78b9eee555a121cd1b49bfee825568e1'
 
 # Streamlit app
 st.title("Flight Tracker")
